@@ -1,0 +1,277 @@
+
+   
+
+*{
+    padding: 0;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: #5c5b5b;
+    font-family: sans-serif;
+}
+nav{
+    height: 80px;
+    width: 100%;
+
+}
+label#logo{
+    color:white;
+    font-size: 35px;
+    line-height: 100px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+#Main{
+    margin-right: 250px;
+    margin-top: -100px;
+}
+#right-option{
+    margin-left: 700px;
+    margin-top: -100px;
+}
+
+nav  ul{
+    float: right;
+    margin-right: 200px;
+} 
+nav ul li{
+    display: inline-block;
+    line-height: 100px;
+    margin: 0 5px;
+    justify-content: flex-start;
+    
+}
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+#Circle{
+    height: 450px; 
+    width: 450px;
+    border-radius: 50%;
+ background-color:#362f2f;
+ margin-left: 450px;
+ margin-top: -230px;
+ opacity: inherit;
+}
+#main-pic{
+    margin-top: -80px;
+    margin-left: 80px;
+}
+#first{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 30px;
+    color: rgb(75, 72, 72)
+    ;
+  
+    
+}
+#second{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#third{
+    color: #f79628;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+#fourth{
+   margin-left: 100px;
+   margin-top: 10px;
+   font-size: 20px;
+   color: aliceblue;
+}
+#fivth{
+    margin-left: 70%;
+    margin-top: -20%;
+    line-height: 40px;
+    color: white;
+    font-size: 20px;
+}
+#sixth{
+    margin-left: 70%;
+    color: white;
+    font-size: 20px;
+    
+}
+#seventh{
+    margin-left: 70%;
+    line-height: 40px;
+    color: #f79628;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#s-media{
+    display: flex;
+    justify-content: center;
+    margin-left: 700px;
+   
+   
+}
+.social{
+    padding: 0 10px;  
+}
+#chamber-a{
+    border: solid;
+    color: #362f2f;
+    height: 100px;
+    width: 1050px;
+    margin-top: 130px;
+    margin-left: 100px;
+    background-color: rgb(121, 120, 120);
+    display: flex;
+    justify-content: space-around;
+
+}
+#chamber-3{
+    background-color: #362f2f;
+    height: 800px;
+}
+.photos{
+    margin-top: 25px;
+    background-color: #362f2f; 
+    height: 40px;
+    width: 150px;
+}
+h3{
+    color: #f79628;
+    font-size: 50px;
+}
+#Eight{
+   
+    margin-top: 100px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+    line-height: 50px;
+}
+#Nineth{
+    margin-left: 100px;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+#Tenth{
+    margin-left: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: 30px;
+}
+#Eleventh{
+    margin-left: 300px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: -70px;
+}
+#Twelveth{
+    margin-left: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: 30px;
+}
+#Thirteenth{
+    margin-left: 300px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: -70px;
+    padding: 5px;
+}
+#Pic-1{
+    margin-left: 650px;
+   margin-top: -250px;
+   
+}
+#text-1{
+    margin-left: 880px;
+    margin-top: -60px;
+    color: aliceblue;
+}
+#side-row{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+    color: rgb(121, 120, 120);
+}
+
+#Pic-2{
+    margin-left: 650px;
+   margin-top: 20px;
+}
+#text-2{
+    margin-left: 880px;
+    margin-top: -60px;
+    color: aliceblue;
+}
+#side-row2{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+    color: rgb(121, 120, 120);
+}
+
+#Pic-3{
+    margin-left: 650px;
+   margin-top: 20px;
+}
+
+#text-3{
+    margin-left: 880px;
+    margin-top: -60px;
+    color: aliceblue;
+}
+#side-row3{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+    color: rgb(121, 120, 120);
+}
+#last-third{
+    height: 220px;
+    width: 290px;
+    color: aliceblue;
+    border: 50px;
+    background-color:rgb(41, 39, 39);;
+    padding: 35px;
+   margin-left: 100px;
+   margin-top: 220px;
+}
+
+    #last-second{
+        height: 220px;
+        width: 290px;
+        border: 50px;
+        background-color:rgb(41, 39, 39);;
+        padding: 35px;
+       margin-left: 400px;
+       margin-top: -220px;
+       color: aliceblue;
+    }
+    #last-one{
+        height: 220px;
+        width: 290px;
+        border: 50px;
+        background-color:rgb(41, 39, 39);;
+        padding: 35px;
+       margin-left: 700px;
+       margin-top: -238px;
+       color: aliceblue;
+    
+    }
